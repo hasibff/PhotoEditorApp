@@ -1,5 +1,11 @@
 # Photo Editor (Android / Kotlin)
 # Photo Editor (Android / Kotlin)
+app/src/main/res/values/themes.xml
+A native Android photo-editing app: crop, rotate, resize, filters (B&W, Sepia,
+Cool, Warm, Vintage), brightness/contrast/saturation, plus draggable text and
+emoji stickers. Saves the finished image to Pictures/PhotoEditor.
+
+See app/ folder for source code.# Photo Editor (Android / Kotlin)
 
 A native Android photo-editing app: crop, rotate, resize, filters (B&W, Sepia,
 Cool, Warm, Vintage), brightness/contrast/saturation, plus draggable text and
